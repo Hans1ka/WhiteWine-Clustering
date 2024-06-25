@@ -1,0 +1,2 @@
+In the first part, an analysis is performed on the wine dataset with all initial attributes (i.e. the first 11 features), as the aim is to assess clustering results using all input variables.
+In the second part, principal component analysis (PCA) is applied to reduce the input dimensionality and the newly produced dataset will be again clustered. This part aims to understand the principles and effects of reducing dimensionality in multi-dimensional problems. 
